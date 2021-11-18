@@ -6,5 +6,5 @@ A few months ago, I was tasked to outline/draw out a prototype automating a syst
 
 -The goal is to download the data in CSV format, convert it into a Pandas DataFrame and then push/save the data into the appropriate MySQL tables. 
 
--The Jupyter notebook shows the thinking along the process.  
+-The Jupyter notebook shows the ETL along the process.  
 
